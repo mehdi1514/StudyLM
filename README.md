@@ -43,10 +43,10 @@ This is a Next.js application designed to take notes and leverage AI to enhance 
     This will start the development server and open the application in your default browser at http://localhost:3000.
 
 ## Screenshots
-<img src="./screenshots/signin.png" alt="My Project Logo" width="450" height="220">
-<img src="./screenshots/workspace.png" alt="My Project Logo" width="450" height="220">
-<img src="./screenshots/user-query.png" alt="My Project Logo" width="450" height="220">
-<img src="./screenshots/ai-result.png" alt="My Project Logo" width="450" height="220">
+<img src="./screenshots/signin.png" alt="sign in">
+<img src="./screenshots/workspace.png" alt="workspace">
+<img src="./screenshots/user-query.png" alt="user query">
+<img src="./screenshots/ai-result.png" alt="ai result">
 
 ## Architecture
 <img src="./screenshots/architecture.png" alt="My Project Logo">
